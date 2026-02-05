@@ -1,36 +1,51 @@
 ## Customer Shopping Behaviour Analysis
 
 ### Problem Statement
-Understanding customer purchasing patterns to help businesses
-improve sales strategies and customer retention.
+The objective of this project is to analyze customer shopping behavior
+using transactional data to identify spending patterns, customer
+segments, and product performance that can help businesses improve
+sales and customer retention strategies.
 
 ### Dataset
-- Source: (mention source if known)
-- Rows: ___
-- Columns: ___
-- Key features: Gender, Age, Category, Purchase Amount, etc.
+- Total records: 3,900 customer purchases
+- Total features: 18
+- Includes customer demographics (age, gender, location),
+  purchase details (category, purchase amount, discounts),
+  subscription status, and shipping type
 
-### Tools Used
+### Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
-- SQL
+- SQL (PostgreSQL)
 - Power BI
 
-### Key Analysis Performed
-- Customer segmentation by age and gender
-- Spending behavior by product category
-- High-value customer identification
-- Monthly / category-wise trends
+
+### Power BI Dashboard
+  An interactive Power BI dashboard was created to visualize:
+- Customer segmentation
+- Revenue trends by category
+- Gender and age-based spending patterns
+
+
+### Analysis Performed
+- Data cleaning and preprocessing
+- Feature engineering (age groups, purchase frequency)
+- Customer segmentation (New, Returning, Loyal)
+- Spending and revenue analysis by category and gender
+- Discount and subscription behavior analysis
 
 ### Key Insights
-- Customers aged ___ spend the most on ___
-- ___ category contributes highest revenue
-- Repeat customers show ___% higher spending
+- Young adult customers contributed the highest overall revenue
+- Male customers generated significantly higher total revenue
+- A small group of repeat customers accounted for a large portion of sales
+
 
 ### Business Recommendations
-- Target ___ age group with personalized offers
-- Promote ___ category during peak periods
-- Loyalty programs for high-value customers
+- Convert repeat buyers into subscribers using exclusive benefits
+- Focus marketing efforts on high-revenue customer segments
+- Promote top-performing product categories during peak seasons
+- Optimize discount strategies to protect profit margins
 
 ### Conclusion
-This project demonstrates my ability to perform end-to-end
-data analysis and convert data into business insights.
+This project demonstrates my ability to perform end-to-end data analysis
+using Python, SQL, and Power BI, and to translate data-driven insights
+into actionable business recommendations.
