@@ -1,59 +1,36 @@
-# customer_shopping_behaviour
-  Overview
-This project demonstrates an end-to-end data analytics workflow, covering data loading, exploration, cleaning, SQL-based analysis, and business reporting.
-The goal is to extract meaningful insights from raw data and present them through an interactive Power BI dashboard, a written report, and a presentation created using Gamma.
+## Customer Shopping Behaviour Analysis
 
-This project highlights practical skills required for Data Analyst / Business Analyst roles.
+### Problem Statement
+Understanding customer purchasing patterns to help businesses
+improve sales strategies and customer retention.
 
- Dataset
+### Dataset
+- Source: (mention source if known)
+- Rows: ___
+- Columns: ___
+- Key features: Gender, Age, Category, Purchase Amount, etc.
 
-~ Source: (Kaggle)
-~ Format: CSV
-~ Description: The dataset contains structured data related to (briefly mention domain, e.g., sales, customers, operations, finance).
+### Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL
+- Power BI
 
- Tools & Technologies
+### Key Analysis Performed
+- Customer segmentation by age and gender
+- Spending behavior by product category
+- High-value customer identification
+- Monthly / category-wise trends
 
-. Python – Data loading, cleaning, and EDA
-. Libraries: Pandas, NumPy, Matplotlib, Seaborn
-. PostgreSQL – Data storage and SQL querying
-. SQL – Data analysis and aggregations
-. Power BI – Interactive dashboard and visualizations
-. Jupyter Notebook – Analysis and documentation
+### Key Insights
+- Customers aged ___ spend the most on ___
+- ___ category contributes highest revenue
+- Repeat customers show ___% higher spending
 
-Project Steps
+### Business Recommendations
+- Target ___ age group with personalized offers
+- Promote ___ category during peak periods
+- Loyalty programs for high-value customers
 
-Step 1 -  Data Loading
-. Imported dataset into Python using Pandas.
-. Loaded cleaned data into a PostgreSQL database.
-
-Step 2 - Exploratory Data Analysis (EDA)
-. Analyzed data structure, distributions, and trends.
-. Identified missing values and outliers.
-. Visualized key metrics using charts and plots.
-
-Step 3 - Data Cleaning
-. Handled missing values.
-. Removed duplicates.
-. Standardized column names and data types.
-. Ensured data consistency for analysis.
-
-Step 4 - SQL Analysis (PostgreSQL)
-. Wrote SQL queries for:
-. Aggregations and KPIs
-. Trend analysis
-. Filtering and grouping
-. Validated Python results using SQL queries.
-
-Step 5 - Dashboard Development
-. Built an interactive Power BI dashboard.
-. Included filters, KPIs, and trend visuals.
-
-
-The Power BI dashboard provides:
-. Key performance indicators (KPIs)
-. Trend analysis over time
-. Category-wise and segment-wise breakdowns
-. Interactive filters for deeper insights
-. Designed for business-friendly insights.
-. Reporting & Presentation
-. Created a detailed analytical report.
+### Conclusion
+This project demonstrates my ability to perform end-to-end
+data analysis and convert data into business insights.
